@@ -1,4 +1,4 @@
-# KTH-ID1018
+# Programming I
 
 ## Course contents
 
