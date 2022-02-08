@@ -81,8 +81,7 @@ public class Polyline1
         for(i = 0; i < this.corners.length; i++) 
             h[i] = this.corners[i]; 
 
-        // h[i] = new Point(corners);
-        h[i] = corners;               // changed according to feedback.
+        h[i] = corners;
  
         this.corners = h; 
     } 
