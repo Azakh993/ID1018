@@ -8,7 +8,6 @@ public class TriangleAndItsCircles
 
         int input = 0;
 
-        // While-loop for restarting the program until input "7" is provided
         while(input != 7)
         {
             System.out.println("Enter 1 to calculate a triangle's area");
@@ -27,7 +26,6 @@ public class TriangleAndItsCircles
 
             double a, b, c, ab;
 
-            // Selects code block of relevance for desired calculation
             switch(input)
             {
                 case 1:
@@ -37,7 +35,6 @@ public class TriangleAndItsCircles
                     System.out.print("\nInput: ");
                     int secondInput = in.nextInt();
 
-                    // Nested switch for selection of calculation based on users available parameters
                     switch(secondInput)
                     {
                         case 1:
