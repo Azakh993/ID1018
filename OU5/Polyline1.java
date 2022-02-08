@@ -97,8 +97,7 @@ public class Polyline1
             if(this.corners[i].getName() == cornerName)
             {
                 h[i + 1] = this.corners[i]; 
-                // h[i] = new Point(corners);
-                h[i] = corners;                // changed according to feedback.
+                h[i] = corners;
                 i++;
 
                 for(int j = i; j < this.corners.length; j++)
