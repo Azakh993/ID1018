@@ -42,8 +42,7 @@ public class Polyline
         Point[] c = new Point[corners.length];
 
         for(int i = 0; i < corners.length; i++)
-            // c[i] = corners[i];
-            c[i] = new Point(corners[i]);          // changed according to feedback
+            c[i] = new Point(corners[i]);
         
         return c;
     }
