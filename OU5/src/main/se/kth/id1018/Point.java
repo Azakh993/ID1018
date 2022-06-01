@@ -1,4 +1,6 @@
-public class Point 
+package main.se.kth.id1018;
+
+public class Point
 {
     String coordinateName;
     int xCoordinate, yCoordinate;

@@ -1,4 +1,6 @@
-public class Polyline 
+package main.se.kth.id1018;
+
+public class Polyline
 { 
     private Point[] corners; 
     private String colour = "black"; 

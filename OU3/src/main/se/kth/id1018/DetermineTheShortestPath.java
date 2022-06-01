@@ -1,3 +1,5 @@
+package main.se.kth.id1018;
+
 class DetermineTheShortestPath
 {
     public static int[] stations (double[] a, double[][] b, double[] c)

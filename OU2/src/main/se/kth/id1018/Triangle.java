@@ -1,3 +1,4 @@
+package main.se.kth.id1018;
 
 class Triangle
 {   

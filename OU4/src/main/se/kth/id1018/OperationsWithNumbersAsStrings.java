@@ -1,4 +1,6 @@
-import java.util.*;    // Scanner 
+package main.se.kth.id1018;
+
+import java.util.*;    // Scanner
 import static java.lang.System.out; 
  
 class OperationsWithNumbersAsStrings 

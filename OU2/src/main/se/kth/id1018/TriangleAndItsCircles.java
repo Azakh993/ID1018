@@ -1,3 +1,5 @@
+package main.se.kth.id1018;
+
 import java.util.*;
 
 public class TriangleAndItsCircles
