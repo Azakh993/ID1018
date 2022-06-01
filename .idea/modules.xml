@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EU1/EU1.iml" filepath="$PROJECT_DIR$/EU1/EU1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EU2/EU2.iml" filepath="$PROJECT_DIR$/EU2/EU2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EU3/EU3.iml" filepath="$PROJECT_DIR$/EU3/EU3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KTH-ID1018.iml" filepath="$PROJECT_DIR$/KTH-ID1018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OU1/OU1.iml" filepath="$PROJECT_DIR$/OU1/OU1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OU2/OU2.iml" filepath="$PROJECT_DIR$/OU2/OU2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OU3/OU3.iml" filepath="$PROJECT_DIR$/OU3/OU3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OU4/OU4.iml" filepath="$PROJECT_DIR$/OU4/OU4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OU5/OU5.iml" filepath="$PROJECT_DIR$/OU5/OU5.iml" />
+    </modules>
+  </component>
+</project>
