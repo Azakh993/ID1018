@@ -17,14 +17,14 @@
 * Runtime storage management
 * Pointers and references
 
-Algorithmic problem solving:
+## Algorithmic problem solving:
 * Problem-solving strategies
 * The role of algorithms in the problem-solving process
 * Implementation strategies for algorithms
 * Debugging strategies
 * The concept and properties of algorithms
 
-Object-oriented programming:
+## Object-oriented programming:
 * Object-oriented design
 * Encapsulation and information-hiding
 * Separation of behavior and implementation
@@ -32,5 +32,5 @@ Object-oriented programming:
 * Inheritance
 * Polymorphism
 
-Exceptions:
+## Exceptions:
 * Exception handling
