@@ -36,7 +36,3 @@ This repository contains lab assignments for the Programming I (ID1018) course a
 ### EU3
 - **Topics**: inheritance, class hierarchies, and polymorphism, data structures
 - **Outcome**: `Chessboard.java`, `ReachableFieldsOnChessboard.java`, `NotValidFieldException.java`, `TestClass.java`
-
-### `TypeIndependentProgramming` (formerly EU4)
-- **Objective**: Focuses on interface, type-independent programming, and iterating through collections.
-- **Outcome**: Detailed instructions, code templates, and additional resources.
