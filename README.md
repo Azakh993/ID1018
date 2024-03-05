@@ -1,4 +1,5 @@
 # Course contents
+This repository encapsulates the entire coursework of the "Programming I" course focusing on various aspects of programming fundamentals. It covers basic programming, data structures, algorithms, object-oriented programming, and handling exceptions. This course is structured into foundational units (OU1 - OU5) and extended units (EU1 - EU4), each diving deeper into specific programming paradigms and challenges.
 
 ## Fundamental constructs:
 * Basic syntax and semantics of a higher-level language
