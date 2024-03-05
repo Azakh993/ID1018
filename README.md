@@ -1,37 +1,42 @@
-# Course contents
-This repository encapsulates the entire coursework of the "Programming I" course focusing on various aspects of programming fundamentals. It covers basic programming, data structures, algorithms, object-oriented programming, and handling exceptions. This course is structured into foundational units (OU1 - OU5) and extended units (EU1 - EU4), each diving deeper into specific programming paradigms and challenges.
+# Programming I (ID1018) Labs
 
-## Fundamental constructs:
-* Basic syntax and semantics of a higher-level language
-* Variables, types, expressions and assignment
-* Simple I/O
-* Conditional and iterative control structures
-* Functions and parameter passing
-* Structured decomposition
+## Course Overview
+This repository contains lab assignments for the Programming I (ID1018) course at KTH Royal Institute of Technology. Each directory corresponds to a specific lab assignment, focusing on key programming concepts, data structures, algorithms, object-oriented programming, and exception handling in Java.
 
-## Data structures:
-* Representation of numeric data
-* Range, precision, and rounding errors
-* Arrays
-* Representation of character data
-* Strings and string processing
-* Runtime storage management
-* Pointers and references
+## Lab Contributions
 
-## Algorithmic problem solving:
-* Problem-solving strategies
-* The role of algorithms in the problem-solving process
-* Implementation strategies for algorithms
-* Debugging strategies
-* The concept and properties of algorithms
+### OU1
+- **Topics**: Loops, conditions, vectors, I/O operations, basic algoritms
+- **Outcome**: `Temperatures.java`, `OU1 - Table and Figures.pdf`
 
-## Object-oriented programming:
-* Object-oriented design
-* Encapsulation and information-hiding
-* Separation of behavior and implementation
-* Classes and subclasses
-* Inheritance
-* Polymorphism
+### OU2
+- **Topics**: Methods, classes, standard library, mathematical algorithms
+- **Outcome**: `Triangle.java`, `TriangleAndItsCircles.java`, `TriangleAndItsCircles.png`
 
-## Exceptions:
-* Exception handling
+### OU3
+- **Topics**: Algorithmic understanding, problem specification, efficiency evaluation, pseudo code
+- **Outcome**: `ShortestPath.java`, `DetermineTheShorteestPath.java`
+
+### OU4
+- **Topics**: Object-oriented programming, strings
+- **Outcome**: `OperationsWithNumbersAsStrings.java`
+
+### OU5
+- **Topics**: Objects, structures, efficiency evaluation, exception handling
+- **Outcome**: `ChoosePolyline.java`, `Point.java`, `PointTest.java`, `Polyline.java`, `Polyline1.java`, `PolylineTest.java`
+
+### EU1
+- **Topics**: Vector usage, method testing, algorithm debugging.
+- **Outcome**: `Main.java.`, `OriginalMin.java`, `CorrectedMin.java`, `EffectiveMin.java`
+
+### EU2
+- **Topics**: Sorting algorithms, time complexity.
+- **Outcome**: `Main.java`, `ExchangeSort.java`
+
+### EU3
+- **Topics**: inheritance, class hierarchies, and polymorphism, data structures
+- **Outcome**: `Chessboard.java`, `ReachableFieldsOnChessboard.java`, `NotValidFieldException.java`, `TestClass.java`
+
+### `TypeIndependentProgramming` (formerly EU4)
+- **Objective**: Focuses on interface, type-independent programming, and iterating through collections.
+- **Outcome**: Detailed instructions, code templates, and additional resources.
